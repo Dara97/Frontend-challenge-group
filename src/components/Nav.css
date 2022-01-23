@@ -1,0 +1,25 @@
+.topbarWrapper {
+  height: 100%;
+  /*  padding: 0px 20px; */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 80px;
+  margin-right: 90px;
+}
+
+.logo-topbar {
+  background: linear-gradient(
+    135deg,
+    #fff783 0,
+    #ffdf67 0%,
+    #f9c346 50%,
+    #e8a722 75%,
+    #db8f00 100%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Oswald", sans-serif;
+  font-size: 40px;
+}
+
